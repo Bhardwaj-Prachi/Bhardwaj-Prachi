@@ -1,4 +1,4 @@
-[![MasterHead](https://www.git-tower.com/blog/media/pages/posts/git-for-marketing-teams/886baa2e35-1695295992/header@3960w.png)
+![MasterHead](https://www.git-tower.com/blog/media/pages/posts/git-for-marketing-teams/886baa2e35-1695295992/header@3960w.png)
 <h1 align="center">Hi 👋, I'm Prachi Bhardwaj</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
